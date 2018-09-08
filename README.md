@@ -1,3 +1,3 @@
-# Portfolio
+# Aleksandar Ljubišić - portfolio
 
-<a href="hhttp://aleksander.napravi.online/" target="_blank">My portfolio</a>
+http://aleksander.napravi.online/
